@@ -66,5 +66,5 @@ app.get("/cidelete", (req, res) => {
   });
 });
 app.listen(3000, () => {
-  console.log("conatiner started ");
+  console.log("DockEase started at port 3000");
 });
